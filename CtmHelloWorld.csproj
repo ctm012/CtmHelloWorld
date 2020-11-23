@@ -48,7 +48,7 @@
     <Compile Include="Properties\程序集信息.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="应用程序.config" />
+    <None Include="003.应用程序\应用程序.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
