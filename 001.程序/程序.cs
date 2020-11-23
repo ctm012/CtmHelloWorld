@@ -20,6 +20,10 @@ namespace CtmHelloWorld
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            Console.WriteLine("Ctm Hello World!");//输出括号里面的内容
+
+            设置 设置 = new 设置();//实例化设置
+            设置.窗体设置();
         }
     }
 }

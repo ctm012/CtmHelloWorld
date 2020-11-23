@@ -44,10 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="001.程序\程序.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="002.设置\设置.cs" />
+    <Compile Include="Properties\程序集信息.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="应用程序.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
